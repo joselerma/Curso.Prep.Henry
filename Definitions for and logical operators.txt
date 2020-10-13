@@ -1,0 +1,18 @@
+* Variables
+	Son palabras con las que identificamos los espacios reservados en memoria y mediante las cuales podemos acceder a la información contenida en ellos, de esta manera si 
+	podemos usar la variable para realizar operaciones mediante ella  como sumar, restar, imprimir el valor por consola etc.
+	En Javascript usamos la palabra reservada var si la variable es dinámica y const si su valor no cambia.
+
+	* Strings
+	Es un array objeto donde se almacenan caracteres ya sean letras, numeros o simbolos, generalmente usamos una variable para guardar el String en el, aunque se puede interactuar con la 
+	informacion directamente, para declarlas en Javascript 
+
+	* Funciones (argumentos, `return`)
+	Las funciones son pedazos de codigo que declaramos para no tener que repetirlo vez tras vez, son mini aplicaciones que realizan una tarea especifica dentro del programa
+	a las que pasamos argumentos, es decir valores para trabajar con ellos y nos devuelven valores de las operaciones internas de la funcion mediante la palabra return 
+
+	* Declaraciones `if`
+	Un if es un condicional donde  se le pasa un parametro que evalua y si la condicion es cierta ejecuta el codigo envuelto entre sus llaves sino ignora el codigo y sigue al siguiente pedazo de codigo. Tambien hay condicionales else-if que permiten añadir un condicional mas a ser evaluado en caso de que el if arroje falso, ademas podemos agregar un else que se ejecutara si o si si las dos condiciones pasadas fueron falsas (o el if si no hay else if)
+
+	* Valores booleanos (`true`, `false`)
+	Los valores booleanos son expresiones que sirven de llaves para evaluar y ejecutar codigo true sirve para ejecutarlo y false para ignorarlo.
